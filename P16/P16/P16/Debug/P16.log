@@ -1,0 +1,13 @@
+﻿已經開始建置於 2017/12/23 上午 11:25:06。
+     1>節點 2 (Build 目標) 上的專案 "E:\高階程式語言設計-Lab\Homework\HW7-1\P16\P16\P16\P16.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\main.c
+         main.c
+     1>e:\高階程式語言設計-lab\homework\hw7-1\p16\source\main.c(12): warning C4129: 'o' : 無法辨識的字元逸出序列
+     1>e:\高階程式語言設計-lab\homework\hw7-1\p16\source\main.c(12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+     1>專案 "E:\高階程式語言設計-Lab\Homework\HW7-1\P16\P16\P16\P16.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.74
